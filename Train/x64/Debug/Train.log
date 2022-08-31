@@ -1,0 +1,3 @@
+﻿  Train.cpp
+D:\С++\C++\Train\Train\Train.cpp(91,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Train.vcxproj -> D:\С++\C++\Train\x64\Debug\Train.exe
